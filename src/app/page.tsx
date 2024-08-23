@@ -2,9 +2,7 @@ import React from 'react'
 
 const Home = () => {
   return (
-  <>
-    <h1 className='text-red-800'>Home</h1>
-  <h3 className='text-blue-800'>heyyy</h3></>
+    <h1 className='text-blue-950 flex justify-center items-center w-full'>Home</h1>
   )
 }
 

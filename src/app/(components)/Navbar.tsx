@@ -6,7 +6,7 @@ const Navbar = () => {
 
     <header className='bg-gray-700 text-white'>
         <nav className='flex justify-between items-center w-full px-10 py-4 '>
-         <div>Next Auth</div>
+         <div><Link href='/'>Next Auth</Link></div>
          <div className='flex gap-4'>
             <Link href='/'>Home</Link>
             <Link href='/CreateUser'>Create User</Link>
